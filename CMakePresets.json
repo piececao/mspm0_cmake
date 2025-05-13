@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "ninja",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build"
+    }
+  ]
+}

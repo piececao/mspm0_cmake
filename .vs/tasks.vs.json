@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-mspm0cmake_code",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
